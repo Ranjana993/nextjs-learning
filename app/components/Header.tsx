@@ -15,6 +15,7 @@ const Header = () => {
             <li><Link href={"/counter"}>counter </Link></li>
             <li><Link href={"/service"}>Service </Link></li>
             <li><Link href={"/counter-app"}>counter-app </Link></li>
+            <li><Link href={"/form"}>Form</Link></li>
           </ul>
         </div>
       </div>
